@@ -78,11 +78,6 @@ public class MainActivity extends AppCompatActivity {
 
                 return true;
 
-            case R.id.care_talk:
-                Intent intent2 = new Intent(this, care_talk.class);
-                startActivity(intent2);
-
-                return true;
             case R.id.change_pwd:
                 Intent intent3 = new Intent(this, change_pwd.class);
                 startActivity(intent3);

@@ -10,11 +10,7 @@
         android:title="@string/account_info"
         app:showAsAction="ifRoom" />
 
-    <item
-        android:id="@+id/care_talk"
-        android:orderInCategory="100"
-        android:title="@string/care_talk"
-        app:showAsAction="ifRoom" />
+
 
     <item
         android:id="@+id/change_pwd"
@@ -29,12 +25,12 @@
         app:showAsAction="ifRoom" />
 
     <item android:id="@+id/bell"
-        android:title="bell"
+        android:title="@string/bell"
         android:icon="@drawable/bb"
         app:showAsAction="always" ></item>
 
     <item android:id="@+id/tech"
-        android:title="tech"
+        android:title="@string/tech"
         android:icon="@drawable/tech"
         app:showAsAction="always" ></item>
 </menu>

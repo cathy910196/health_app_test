@@ -18,6 +18,8 @@
 <string name="title_activity_setting">設定</string>
 <string name="back">回前頁</string>
 <string name="title_activity_login">健康照護APP</string>
+<string name="bell">提醒</string>
+    <string name="tech">衛教</string>
 
 <!-- Strings related to login -->
 <string name="prompt_email">Email</string>
