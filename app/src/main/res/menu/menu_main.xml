@@ -10,8 +10,6 @@
         android:title="@string/account_info"
         app:showAsAction="ifRoom" />
 
-
-
     <item
         android:id="@+id/change_pwd"
         android:orderInCategory="100"
